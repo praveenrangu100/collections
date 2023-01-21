@@ -1,0 +1,2 @@
+# collections
+In Java, the Collections framework is a set of classes and interfaces that provide useful data structures for storing and manipulating groups of objects. These data structures include lists, sets, maps, and queues. The framework also includes algorithms that can be used to manipulate these data structures, such as sorting and searching. The most commonly used classes in the Collections framework are ArrayList, HashSet, and HashMap. The framework is part of the Java Standard Library and is included in the java.util package.
